@@ -1,13 +1,14 @@
 # 👋 Olá! Eu sou o Victor Roberto
 
 💻 Profissional com experiência em **SOC (Security Operations Center)** e **prevenção a fraudes**.  
-🔐 Atuo com soluções de monitoramento, automação, análise de logs e segurança ofensiva/defensiva.  
-🐧 Fã de ambientes Linux, automações em Python e ferramentas de resposta a incidentes.
+🔐 Atuo com soluções de monitoramento, automação, análise de logs e segurança defensiva.  
+🐧 Fã de ambientes Linux, automações em Python, Pentest e ferramentas de resposta a incidentes.
 
 ---
 
 ## 🧰 Tecnologias que uso
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -15,6 +16,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![OrcaSecurity](https://img.shields.io/badge/OrcaSecurity-0F75BC?style=flat&logo=orca-security&logoColor=white)
 ![TrendMicro](https://img.shields.io/badge/TrendMicro-C40000?style=flat&logo=trendmicro&logoColor=white)
+
 
 ---
 
