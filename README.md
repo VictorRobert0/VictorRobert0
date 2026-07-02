@@ -20,7 +20,7 @@ Security Engineer com atuação em SOC corporativo, focado em **Detection Engine
 - 🛡️ Implementei e estruturei do zero a plataforma de **Resposta a Incidentes (DFIR-IRIS)** e os playbooks da operação
 - 📊 Desenvolvi o VIGIA — ferramenta interna integrada ao DFIR-IRIS via API REST que automatiza a geração de relatórios executivos (Word + Excel) para C-level, entregando métricas de SOC como severidade de alertas, produtividade por analista, backlog de triagem e comparativo período a período — eliminando o processo manual de coleta e consolidação de dados da operação
 - ⚡ Desenvolvi automação **AWS Lambda + Slack** com botões interativos para triagem de alertas em escala
-- 📊 Criei **dashboards de detecção em tempo real** para monitoramento de brute force e enumeração de contas
+- 📊 Criei **dashboards de detecção em tempo real** para monitoramento e investigaçoes no ambiente
 - 📚 Pós-graduando em **Segurança da Informação (FMU)** — reconhecido pela instituição por identificar e reportar responsavelmente vulnerabilidades em sistemas internos
 
 ---
