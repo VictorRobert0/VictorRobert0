@@ -1,6 +1,7 @@
 <div align="center">
 
 # Victor Roberto 
+
 **Security Engineer · Blue Team · Detection & Incident Response**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-roberto-043307284/)
@@ -16,12 +17,12 @@
 
 Security Engineer com atuação em SOC corporativo, focado em **Detection Engineering**, **Resposta a Incidentes** e **automação de segurança (Blue Team)**. Trabalho com engenharia de regras de correlação, integração de fontes de log (SIEM, EDR, Cloud) e desenvolvimento de automações que reduzem esforço manual e aumentam a assertividade da operação.
 
-- 🔵 Reduzi **~60% dos falsos positivos** via redesenho de regras de correlação no Wazuh/OpenSearch
-- 🛡️ Implementei e estruturei do zero a plataforma de **Resposta a Incidentes (DFIR-IRIS)** e os playbooks da operação
-- 📊 Desenvolvi o VIGIA — ferramenta interna integrada ao DFIR-IRIS via API REST que automatiza a geração de relatórios executivos (Word + Excel) para C-level, entregando métricas de SOC como severidade de alertas, produtividade por analista, backlog de triagem e comparativo período a período — eliminando o processo manual de coleta e consolidação de dados da operação
-- ⚡ Desenvolvi automação **AWS Lambda + Slack** com botões interativos para triagem de alertas em escala
-- 📊 Criei **dashboards de detecção em tempo real** para monitoramento e investigaçoes no ambiente
-- 📚 Pós-graduando em **Segurança da Informação (FMU)** — reconhecido pela instituição por identificar e reportar responsavelmente vulnerabilidades em sistemas internos
+- Reduzi **~60% dos falsos positivos** via redesenho de regras de correlação no Wazuh/OpenSearch
+- Desenvolvi o **VIGIA** — ferramenta interna integrada ao DFIR-IRIS via API REST que automatiza a geração de relatórios executivos (Word + Excel) para C-level, entregando métricas de SOC como severidade de alertas, produtividade por analista, backlog de triagem e comparativo período a período — eliminando o processo manual de coleta e consolidação de dados da operação
+- Implementei e estruturei do zero a plataforma de **Resposta a Incidentes (DFIR-IRIS)** e os playbooks da operação
+- Desenvolvi automação **AWS Lambda + Slack** com botões interativos para triagem de alertas em escala
+- Criei **dashboards de detecção em tempo real** para monitoramento de brute force e enumeração de contas
+- Pós-graduando em **Segurança da Informação (FMU)** — reconhecido pela instituição por identificar e reportar responsavelmente vulnerabilidades em sistemas internos
 
 ---
 
@@ -59,23 +60,34 @@ Security Engineer com atuação em SOC corporativo, focado em **Detection Engine
 
 ## Projetos em Destaque
 
-### 🔍 [SecSCAN — Security Tool](https://github.com/VictorRobert0/SecSCAN-Securitytool)
+### [SecSCAN — Security Tool](https://github.com/VictorRobert0/SecSCAN-Securitytool)
 Ferramenta open source desenvolvida em Python/Tkinter que simplifica a execução de varreduras com **Nmap** e **Metasploit** por meio de interface gráfica. Ideal para profissionais de segurança que precisam de agilidade em reconhecimento e testes de penetração.
 
 `Python` `Tkinter` `Nmap` `Metasploit` `Open Source`
 
 ---
 
-### 📋 [Sistema de Cadastro ODE](https://github.com/VictorRobert0/Sistema-cadastro-ODE)
+### [Sistema de Cadastro ODE](https://github.com/VictorRobert0/Sistema-cadastro-ODE)
 Sistema desktop de cadastro de serviços utilizando Excel como banco de dados leve, com interface gráfica para uso operacional.
 
 `Python` `Excel` `Desktop App`
 
 ---
 
+## Certificações
+
+[![Splunk Core](https://img.shields.io/badge/Splunk_Core_Certified_User-000000?style=flat&logo=splunk&logoColor=white)](https://www.splunk.com/en_us/training/certification-track/splunk-core-certified-user.html)
+[![Splunk Defense](https://img.shields.io/badge/Splunk_Data_%26_Tools_for_Defense_Analysts-000000?style=flat&logo=splunk&logoColor=white)](https://www.splunk.com)
+[![RedHat Linux](https://img.shields.io/badge/RedHat_Linux_Administration_I_%26_II-EE0000?style=flat&logo=redhat&logoColor=white)](https://www.redhat.com)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud_Foundations-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![Certiprof](https://img.shields.io/badge/Prompt_Engineering_Professional-6A0DAD?style=flat&logoColor=white)](https://certiprof.com)
+[![Python](https://img.shields.io/badge/Especialização_em_Python-3776AB?style=flat&logo=python&logoColor=white)](https://pythonando.com.br)
+
+---
+
 ## Canal no YouTube
 
-🎙️ **[Overloaded Security](https://www.youtube.com/@OverloadedSecurity)**
+**[Overloaded Security](https://www.youtube.com/@OverloadedSecurity)**
 Conteúdo técnico sobre segurança ofensiva e defensiva: ferramentas, tutoriais e análises de cenários reais de SOC.
 
 ---
